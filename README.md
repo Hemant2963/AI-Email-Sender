@@ -48,7 +48,6 @@ SMTP (Gmail)
 
 AI Language Model API
 
-📂 Project Structure project-folder/ │ ├── app.py # Main application ├── ai_email_generator.py # AI email generation logic ├── email_sender.py # Email sending logic ├── requirements.txt # Dependencies └── README.md
 
 ⚙ How to Run the Project
 
@@ -85,3 +84,4 @@ The user enters the email purpose and selects a tone. The system generates a str
 👨‍💻 Author
 
 Hemant Jain B.Tech Computer Science Engineering
+
